@@ -1,0 +1,55 @@
+html{
+ background-color: 3964139; /*royalblue4*/
+}
+
+.logo {
+     display: block;
+     width: 300px;
+     height: auto;
+     margin: 30px auto;
+ }
+
+.salve {
+    font-size:1.5em;
+    font-family:'Times New Roman', Times, serif;
+    color: salmon;
+    text-align: center;
+ }
+h2 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    margin: 40px;
+    padding: 60px;
+    border: inset 2px #000;
+    border-radius: 10px;
+    color: darkgray;
+ }
+.name {
+    right: 10px;
+    text-align: right;
+    font-size:small;
+    position: relative;
+    margin: 35px;
+    padding:45px ;
+    color: salmon;
+    font-family:'Times New Roman', Times, serif ;
+ }
+.city {
+    font-size: 1.8em;
+    font-family:'Courier New', Courier, monospace;
+    bottom: 20px;
+    text-align: center;
+    color: salmon;
+    margin: 15px;
+    padding: 25px;
+ }
+.year{
+    font-size: 1.8em;
+    font-family:'Courier New', Courier, monospace;
+    bottom: 25px;
+    text-align: center;
+    color: salmon;
+    margin: 10px;
+    padding: 20px;
+}
